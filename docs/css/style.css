@@ -77,6 +77,8 @@ main {
     display: inline-block;
     padding-right: 1rem;
     padding-left: 1rem; }
+    #header h2:hover {
+      cursor: default; }
 
 .caption {
   background: #fff;
